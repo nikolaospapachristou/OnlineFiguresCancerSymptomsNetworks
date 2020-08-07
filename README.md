@@ -10,16 +10,16 @@ The following **list of interactive Bayesian Networks**, ran on the same set of 
 <div align="center">
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS1cr.png"><br>
   <b>Online Figure 1.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  <br>
+  <br><br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS2cr.png"><br>
   <b>Online Figure 2.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  <br>
+  <br><br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS3cr.png"><br>
   <b>Online Figure 3.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  <br>
+  <br><br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS4cr.png"><br>
   <b>Online Figure 4.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  <br>
+  <br><br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS5cr.png"><br>
   <b>Online Figure 5.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
   <br>
