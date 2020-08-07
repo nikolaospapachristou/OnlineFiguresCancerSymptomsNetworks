@@ -7,24 +7,23 @@ The following **list of interactive Bayesian Networks**, ran on the same set of 
 
 The 38 cancer symptoms represented in the graphs below are coded in the following fashion}: difcon: Difficulty Concentrating, pain: Pain, energy: Lack of Energy, cough: Cough, nervous: Feeling Nervous, hotflash: Hot Flashes, drymouth: Dry Mouth, nausea: Nausea, drowsy: Feeling Drowsy, numb: Numbness or Tingling in Hands or Feet, chest: Chest Tightness, difbreath: Difficulty Breathing, difsleep: Difficulty Sleeping, bloat: Feeling Bloated, urinate: Problems with Urination, vomit: Vomitting, sob: Shortness of Breath, diarrhea: Diarrhea, sad: Feeling Sad, sweats: Sweats, sexual: Problems with Sexual Interest or Activity, worry: Worrying, itch: Itching, appetite: Lack of Appetite, abdominal: Abdominal Cramps, increaseapp: Increased Appetite, wtgain: Weight Gain, dizzy: Dizziness, swallow: Difficulty Swallowing, irritable: Feeling Irritable, mouthsore: Mouth Sore, wtloss: Weight Loss, hairloss: Hair Loss, constipat: Constipation, swelling: Swelling, taste: Change in the Way Food Tastes, myself: I Do Not Look Like Myself, skin: Changes in Skin.
 
-<p align="center">
-  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS1cr.png">
+<div align="center">
+  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS1cr.png"><br>
   <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  </br>
-  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS2cr.png">
+  <br>
+  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS2cr.png"><br>
   <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  </br>
-  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS3cr.png">
+  <br>
+  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS3cr.png"><br>
   <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  </br>
-  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS4cr.png">
+  <br>
+  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS4cr.png"><br>
   <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  </br>
-  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS5cr.png">
+  <br>
+  <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS5cr.png"><br>
   <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
-  </br>
-
-</p>
+  <br>
+</div>
 
 
 The networks were created by the **symptom dimension of occurrence**. The **size of nodes** represent the prevalence of each symptom in our dataset, among the 1328 cancer patients. The **width of the edges** are proportional to the strength that symptoms connect with each other, based on the conditional probabilities identified with the BN algorithm.
