@@ -23,6 +23,7 @@ The following **list of interactive Bayesian Networks**, ran on the same set of 
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS5cr.png"><br>
   <b>Online Figure 5.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
   <br>
+  <br>
 </div>
 
 
