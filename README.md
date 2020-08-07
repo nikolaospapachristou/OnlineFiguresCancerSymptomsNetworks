@@ -1,9 +1,11 @@
 ## Online Figures
 
-You can find here the online figures of paper titles "Bayesian Networks and Causal Inference for the Interpretation of Patients' Symptom Experience". If you are viewing this from github you can find its html form in the following link.
+In this section, you can find the _online Figures_ of the paper titled **_Bayesian Networks and Causal Inference for the Interpretation of Patients' Symptom Experience_**. If you are viewing this from github you can find its html form in the following link.
 * [https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/](https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/)
 
-The following **list of interactive Bayesian Networks**, ran on the same set of cancer symptom data. The **complete dataset** consisted of 38 different symptoms collected from 1328 cancer patients. Inside this dataset, there were 295 male and 1033 female cancer patients. There were, also, 958 cancer patients below the age of 65 and 370 cancer patients above the age of 65.  
+The following **list of interactive Bayesian Networks**, ran on the same set of cancer symptom data. The **complete dataset** consisted of 38 different symptoms collected from 1328 cancer patients. Inside this dataset, there were 295 male and 1033 female cancer patients. There were, also, 958 cancer patients below the age of 65 and 370 cancer patients above the age of 65. Symptom occurrence rates are summarised in online Figures 1 through 5. 
+
+![online Figure 1](https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS1cr.png)
 
 The networks were created by the **symptom dimension of occurrence**. The **size of nodes** represent the prevalence of each symptom in our dataset, among the 1328 cancer patients. The **width of the edges** are proportional to the strength that symptoms connect with each other, based on the conditional probabilities identified with the BN algorithm.
 
