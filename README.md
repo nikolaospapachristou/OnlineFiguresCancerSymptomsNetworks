@@ -3,25 +3,25 @@
 In this section, you can find the _online Figures_ of the paper titled **_Bayesian Networks and Causal Inference for the Interpretation of Patients' Symptom Experience_**. If you are viewing this from github you can find its html form in the following link.
 * [https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/](https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/)
 
-The following **list of interactive Bayesian Networks**, ran on the same set of cancer symptom data. The **complete dataset** consisted of 38 different symptoms collected from 1328 cancer patients. Inside this dataset, there were 295 male and 1033 female cancer patients. There were, also, 958 cancer patients below the age of 65 and 370 cancer patients above the age of 65. Symptom occurrence rates are summarised in online Figures 1 through 5. 
+The following **list of interactive Bayesian Networks**, ran on the same set of cancer symptom data. The **complete dataset** consisted of 38 different symptoms collected from 1328 cancer patients. Inside this dataset, there were 295 male and 1033 female cancer patients. There were, also, 958 cancer patients below the age of 65 and 370 cancer patients above the age of 65. Symptom occurrence rates are summarised in _**online Figures 1 through 5_**. 
 
-The 38 cancer symptoms represented in the graphs below are coded in the following fashion}: difcon: Difficulty Concentrating, pain: Pain, energy: Lack of Energy, cough: Cough, nervous: Feeling Nervous, hotflash: Hot Flashes, drymouth: Dry Mouth, nausea: Nausea, drowsy: Feeling Drowsy, numb: Numbness or Tingling in Hands or Feet, chest: Chest Tightness, difbreath: Difficulty Breathing, difsleep: Difficulty Sleeping, bloat: Feeling Bloated, urinate: Problems with Urination, vomit: Vomitting, sob: Shortness of Breath, diarrhea: Diarrhea, sad: Feeling Sad, sweats: Sweats, sexual: Problems with Sexual Interest or Activity, worry: Worrying, itch: Itching, appetite: Lack of Appetite, abdominal: Abdominal Cramps, increaseapp: Increased Appetite, wtgain: Weight Gain, dizzy: Dizziness, swallow: Difficulty Swallowing, irritable: Feeling Irritable, mouthsore: Mouth Sore, wtloss: Weight Loss, hairloss: Hair Loss, constipat: Constipation, swelling: Swelling, taste: Change in the Way Food Tastes, myself: I Do Not Look Like Myself, skin: Changes in Skin.
+**_The 38 cancer symptoms represented in the graphs below are coded in the following fashion:_** difcon: Difficulty Concentrating, pain: Pain, energy: Lack of Energy, cough: Cough, nervous: Feeling Nervous, hotflash: Hot Flashes, drymouth: Dry Mouth, nausea: Nausea, drowsy: Feeling Drowsy, numb: Numbness or Tingling in Hands or Feet, chest: Chest Tightness, difbreath: Difficulty Breathing, difsleep: Difficulty Sleeping, bloat: Feeling Bloated, urinate: Problems with Urination, vomit: Vomitting, sob: Shortness of Breath, diarrhea: Diarrhea, sad: Feeling Sad, sweats: Sweats, sexual: Problems with Sexual Interest or Activity, worry: Worrying, itch: Itching, appetite: Lack of Appetite, abdominal: Abdominal Cramps, increaseapp: Increased Appetite, wtgain: Weight Gain, dizzy: Dizziness, swallow: Difficulty Swallowing, irritable: Feeling Irritable, mouthsore: Mouth Sore, wtloss: Weight Loss, hairloss: Hair Loss, constipat: Constipation, swelling: Swelling, taste: Change in the Way Food Tastes, myself: I Do Not Look Like Myself, skin: Changes in Skin.
 
 <div align="center">
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS1cr.png"><br>
-  <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
+  <b>Online Figure 1.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
   <br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS2cr.png"><br>
-  <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
+  <b>Online Figure 2.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
   <br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS3cr.png"><br>
-  <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
+  <b>Online Figure 3.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
   <br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS4cr.png"><br>
-  <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
+  <b>Online Figure 4.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
   <br>
   <img src="https://nikolaospapachristou.github.io/OnlineFiguresCancerSymptomsNetworks/FigureS5cr.png"><br>
-  <bold>Online Figure 1.</bold> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
+  <b>Online Figure 5.</b> Frequency of occurrence of the 38 symptoms for all of the cancer patients (n=1328)
   <br>
 </div>
 
